@@ -72,7 +72,15 @@ A typical workflow to reproduce the thesis experiments is:
    - Pure physical-model EnKF runs.
    - Pure UNet rollouts (without data assimilation).
 
-All experiments in this repository were run in a **Python 3.9.13** environment.
+## Environment
+
+All experiments were run with **Python 3.9.13**.
+
+To install the required dependencies, run:
+
+```bash
+pip install -r requirements.txt
+
 
 
 
