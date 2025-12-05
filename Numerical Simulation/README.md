@@ -26,5 +26,5 @@ These trajectories are used both as “truth” for data assimilation and as tra
 
    ```python
    truth_dir = r"C:\Users\DELL\Desktop\..."
-
-   Replace them with locations that exist on your system
+   ```
+  Replace them with locations that exist on your system
